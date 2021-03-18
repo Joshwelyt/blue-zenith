@@ -1,0 +1,8 @@
+{
+    name: "blue-zenith",
+    displayName: "Blue Zenith",
+    author: "QmelZ",
+    description: "xi",
+    version: 1,
+    minGameVersion: 125
+}
